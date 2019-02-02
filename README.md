@@ -6,7 +6,7 @@ A react app based on antd-mobile, umi, mock, etc.
 
 A react app based on antd-mobile, umi, mock, etc. We provided a demo for antd-mobile development.
 <br/>
-Get it on <a href='http://m.acgnfuns.com'>Google Play</a>
+Get it on <a href='http://m.acgnfuns.com'>次元饭</a>
 
 
 ### Prerequisites
